@@ -2,7 +2,7 @@
 
 My name is Gonzalo, I'm from Chile. 
 
-I'm a Computer engineer from [upda](https://www.unavarra.es).
+I'm a Computer engineer from [upna](https://www.unavarra.es).
 
 * Currently working for [falabella](https://www.falabella.com/) as a Systems analyst.
 
