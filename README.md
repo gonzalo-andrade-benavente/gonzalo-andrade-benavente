@@ -14,7 +14,7 @@ I'm a Computer engineer from [upna](https://www.unavarra.es).
 
 ## Learning
 
-* Stack MERN
+* Stack MERN [fullstackopen2021](https://fullstackopen.com/en/)
 * Python
 
 ## Projects
