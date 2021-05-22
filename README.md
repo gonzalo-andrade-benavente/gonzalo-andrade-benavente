@@ -12,7 +12,6 @@ I'm a Computer engineer from [upna](https://www.unavarra.es).
 * SQL
 * Process automation using PL/SQL and Control-M
 
-
 ## Learning
 
 * Stack MERN
@@ -20,8 +19,8 @@ I'm a Computer engineer from [upna](https://www.unavarra.es).
 
 ## Projects
 
-* Product Owner "Rebates Comercial". A rebate is a form of buying discount and is an amount paid by way of reduction, return, or refund that is paid retrospectively. It is a type of sales promotion that marketers use primarily as incentives or supplements to product sales.
+* Data Steward from Datalake GCP Falabella (Actually).
 
 * Developer SAP Integration with Oracle DB. Integrations: RecordToReport, OrderToCash and ProcedureToPay.
 
-* Data Steward from Datalake GCP Falabella (Actually).
+* Product Owner "Rebates Comercial". A rebate is a form of buying discount and is an amount paid by way of reduction, return, or refund that is paid retrospectively. It is a type of sales promotion that marketers use primarily as incentives or supplements to product sales.
