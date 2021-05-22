@@ -1,11 +1,27 @@
 ## Kaixo
 
-My name is Pablo, I'm from Argentina and I'm a SRE.
+My name is Gonzalo, I'm from Chile. 
 
-* Currently working for [falabella](https://www.falabella.com/) as a Systems analyst
+I'm a Computer engineer from [upda](https://www.unavarra.es).
+
+* Currently working for [falabella](https://www.falabella.com/) as a Systems analyst.
 
 ## Skills
 
 * PL/SQL
 * SQL
+* Process automation using PL/SQL and Control-M
 
+
+## Learning
+
+* Stack MERN
+* Python
+
+## Projects
+
+* Product Owner "Rebates Comercial". A rebate is a form of buying discount and is an amount paid by way of reduction, return, or refund that is paid retrospectively. It is a type of sales promotion that marketers use primarily as incentives or supplements to product sales.
+
+* Developer SAP Integration with Oracle DB. Integrations: RecordToReport, OrderToCash and ProcedureToPay.
+
+* Data Steward from Datalake GCP Falabella (Actually).
