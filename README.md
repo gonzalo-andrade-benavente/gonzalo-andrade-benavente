@@ -20,7 +20,7 @@ My name is Gonzalo, I'm from Chile. I'm a Computer engineer from [upna](https://
 
 ## Projects
 
-* Teach Lead Warehouse Falabella (Actually)
+* Teach Lead Warehouse Falabella (Actually).
 * Data Steward from Datalake GCP Falabella.
 * Developer SAP Integration with Oracle DB. Integrations: RecordToReport, OrderToCash and ProcedureToPay.
 * Product Owner "Rebates Comercial". A rebate is a form of buying discount and is an amount paid by way of reduction, return, or refund that is paid retrospectively. It is a type of sales promotion that marketers use primarily as incentives or supplements to product sales.
