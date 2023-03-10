@@ -25,6 +25,12 @@ My name is Gonzalo, I'm from Chile. I'm a Computer engineer from [upna](https://
 * Developer SAP Integration with Oracle DB. Integrations: RecordToReport, OrderToCash and ProcedureToPay.
 * Product Owner "Rebates Comercial". A rebate is a form of buying discount and is an amount paid by way of reduction, return, or refund that is paid retrospectively. It is a type of sales promotion that marketers use primarily as incentives or supplements to product sales.
 
+## Comandos más usados
+
+```bash
+alias mostused='history | awk '\'' {print $2} '\'' | sort | uniq -c | sort -nr | head -n 10'
+```
+
 | Cantidad | Comando|
 |----------|--------|
 | 248 | clear |
